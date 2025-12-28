@@ -1,7 +1,0 @@
-name: BharatCore
-version: 1.0
-main: com.bharat.core.BharatCore
-api-version: 1.20
-author: Bharat
-description: Bharat SMP Core Plugin
-
