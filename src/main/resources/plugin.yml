@@ -1,5 +1,11 @@
 name: BharatCore
-main: com.bharat.core.BharatCore
 version: 1.0
-api-version: 1.20
+main: com.bharat.bharatcore.BharatCore
+api-version: 1.19
+author: Bharat
+description: Core plugin for Bharat SMP
 
+commands:
+  bharat:
+    description: Check BharatCore status
+    usage: /bharat
